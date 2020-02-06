@@ -13,3 +13,7 @@
 
 
 // TODO: reference additional headers your program requires here
+#include <iostream>
+#include "Tree.h"
+#include "Node.h"
+#include <string>
